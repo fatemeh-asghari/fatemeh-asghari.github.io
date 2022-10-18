@@ -1,0 +1,115 @@
+.navbar-1st-bg {
+    background-color: #161e30;
+}
+
+.nav-item-color {
+    color: white !important;
+    font-size: 13px;
+}
+
+.nav-link-bg1 {
+    background-color: rgba(255, 255, 255, 0.2);
+    border-top: 3px solid #c7193f;
+}
+
+.nav-link-bg {
+    transition: background-color 1s ease 0s;
+}
+
+.nav-link-bg:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.nav-direction {
+    direction: rtl;
+}
+
+.psg-logo {
+    width: 42px;
+}
+
+.navbar-hover {
+    transition: color 280ms linear 0s;
+}
+
+.navbar-hover:hover {
+    color: #c7193f;
+}
+
+.navbar-3rd {
+    justify-content: center !important;
+    padding-bottom: 15px;
+}
+
+.navbar-3rd-a {
+    font-size: 16px;
+    transition: all 850ms ease-out 0s;
+    border-bottom: 2px solid rgba(255, 255, 255, 1);
+}
+
+.navbar-3rd-a:hover {
+    border-bottom: 2px solid gray;
+}
+
+.pseudo-link {
+    width: 100%;
+    background-color: #161e30;
+}
+
+.image-transform {
+    transition: all 1s ease 0s;
+}
+
+.image-transform:hover {
+    transform: scale(1.1);
+}
+
+.pseudo-link-a {
+    height: 300px;
+}
+
+.pseudo-link-p {
+    padding-top: 80px;
+    padding-left: 30px;
+    font-size: 12px;
+    color: #c7193f;
+}
+
+.pseudo-link-p2 {
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+    font-size: 25px;
+}
+
+.pseudo-link-p3 {
+    padding-left: 30px;
+    padding-top: 20px;
+}
+
+.border-span {
+    width: 50px;
+    border-top: 1px solid #c7193f;
+    padding-bottom: 7px;
+}
+
+.border-span2 {
+    width: 15px;
+    height: 15px;
+    border-top: 1px solid #c7193f;
+    border-right: 1px solid #c7193f;
+    transform: rotate(45deg);
+    margin-left: -17px;
+}
+
+@media all and (max-width:575px) {}
+
+@media all and (min-width:576px) and (max-width:767px) {}
+
+@media all and (min-width:768px) and (max-width:991px) {}
+
+@media all and (min-width:992px) and (max-width:1199px) {}
+
+@media all and (min-width:1200px) and (max-width:1399px) {}
+
+@media all and (min-width:1400px) {}

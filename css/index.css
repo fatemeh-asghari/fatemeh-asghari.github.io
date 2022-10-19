@@ -132,6 +132,10 @@
     border-bottom: 1px solid #e8e8e8;
 }
 
+.hor2-first-team-box {
+    border-bottom: 1px solid #e8e8e8;
+}
+
 @media all and (max-width:575px) {}
 
 @media all and (min-width:576px) and (max-width:767px) {}

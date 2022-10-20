@@ -251,6 +251,46 @@
     color: white;
 }
 
+.slider1 {
+    background-color: #f4f4f4;
+}
+
+.discover {
+    width: 100%;
+    background-image: url("../images/discover-myparis.jpg");
+    background-repeat: round;
+    background-size: cover;
+}
+
+.discover1 {
+    width: 100%;
+    background-image: url("../images/discover-children-first.jpg");
+    background-repeat: round;
+    background-size: cover;
+}
+
+.discover2 {
+    width: 100%;
+    background-image: url("../images//discover-carte-blanche.jpg");
+    background-repeat: round;
+    background-size: cover;
+}
+
+.discover-a {
+    color: #fe204a;
+    font-size: 12px;
+    text-decoration: none;
+    border-bottom: 1px solid #fe204a;
+}
+
+.discover-a:hover {
+    color: #fe204a;
+}
+
+.discover-background {
+    background-color: #f4f4f4;
+}
+
 @media all and (max-width:575px) {}
 
 @media all and (min-width:576px) and (max-width:767px) {}

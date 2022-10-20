@@ -136,6 +136,121 @@
     border-bottom: 1px solid #e8e8e8;
 }
 
+.row-color-3rd {
+    background-color: #f4f4f4;
+}
+
+
+.shop-now-color {
+    color: #ff1541;
+}
+
+.shop-now-color:hover {
+    color: #ff1541;
+}
+
+.view-more {
+    display: flex;
+    justify-content: center;
+}
+
+.view-more-span1 {
+    color: #b5b5b5;
+    font-size: calc(10px + 0.1vw);
+}
+
+.view-more-span {
+    font-size: calc(10px + 0.1vw);
+}
+
+.psg-tv {
+    background-color: #0c1324;
+    margin-top: 60px;
+}
+
+.sponsored {
+    color: #676b76;
+    font-size: 11px;
+}
+
+.hor2-first-team-box2 {
+    border-bottom: 1px solid #1e2534;
+}
+
+.input {
+    font-size: calc(13px + 0.5vw);
+    height: 50px;
+    background-color: #1a2434;
+    color: white;
+    border-radius: 2px;
+    justify-content: center;
+}
+
+.input:hover {
+    background-color: #232b39;
+    color: white;
+}
+
+.background-row {
+    width: 100%;
+    height: 100vh;
+    border: 1px solid #3d3f4c;
+    background-image: url("../images/back-br.jpg");
+    background-repeat: round;
+    background-size: cover;
+    text-align: center;
+}
+
+.background-1st {
+    margin-top: 50px;
+}
+
+.background-1st-span {
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    padding-right: 15px;
+}
+
+.background-2nd-span {
+    color: #c9ad67;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.background-2nd {
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 40px;
+}
+
+.check-span {
+    color: #c9ad67;
+    font-weight: bold;
+    font-size: 20px;
+    padding-right: 5px;
+}
+
+.check2-span {
+    color: white;
+    font-size: 18px;
+}
+
+.input2 {
+    font-size: calc(13px + 0.5vw);
+    height: 50px;
+    background-color: #c9ad67;
+    color: white;
+    border-radius: 2px;
+    justify-content: center;
+}
+
+.input2:hover {
+    background-color: #c4b07c;
+    color: white;
+}
+
 @media all and (max-width:575px) {}
 
 @media all and (min-width:576px) and (max-width:767px) {}
